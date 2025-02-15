@@ -6,9 +6,7 @@
 - 🔥 Passionate about learning Python, HTML, and CSS
 - 🚀 Currently attending a bootcamp at Master School to explore new technologies, improving my coding skills and following my passion for development with python as my programming language
 - 🎓 Master's in Information Technology from Panjab University, Chandigarh, India
-
-
-- ⚡ Fun fact **I am fond of cooking and baking too.**
+- ⚡ Fun fact I am fond of playing animal crossing, arts and crafts, cooking and baking too.
 
 <h3 align="left">Connect with me:</h3>
 
