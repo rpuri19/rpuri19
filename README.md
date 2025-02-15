@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me
-  [<a alt="Gmail" width="50">](mailto:ruchipuri19@gmail.com)
+- 📫 Reach me at ruchipuri19@gmail.com
   
 <p align="left">
 </p>
