@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me
-  [<img src="https://github.com/yourusername/yourrepository/blob/main/images/gmail_icon.png?raw=true" alt="Gmail" width="50">](mailto:ruchipuri19@gmail.com)
+  [<a alt="Gmail" width="50">](mailto:ruchipuri19@gmail.com)
   
 <p align="left">
 </p>
