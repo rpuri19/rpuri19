@@ -6,11 +6,16 @@
 - 🔥 Passionate about learning Python, HTML, and CSS
 - 🚀 Currently attending a bootcamp at Master School to explore new technologies, improving my coding skills and following my passion for development with python as my programming language
 - 🎓 Master's in Information Technology from Panjab University, Chandigarh, India
-- 📫 How to reach me **ruchipuri19@gmail.com**
+
 
 - ⚡ Fun fact **I am fond of cooking and baking too.**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rpuri19&label=Profile%20views&color=0e75b6&style=flat" alt="rpuri19" /> </p>
+
+- 📫 How to reach me **ruchipuri19@gmail.com**
+  
 <p align="left">
 </p>
 
