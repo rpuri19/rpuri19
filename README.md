@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpuri19&label=Profile%20views&color=0e75b6&style=flat" alt="rpuri19" /> </p>
 
-- 🔥 Passionate about learning Python, HTML, and CSS
+- 🔥 Passionate about learning new thing :)
 - 🚀 Currently attending a bootcamp at Master School to explore new technologies, improving my coding skills and following my passion for development with python as my programming language
 - 🎓 Master's in Information Technology from Panjab University, Chandigarh, India
 - ⚡ Fun fact I am fond of playing animal crossing, arts and crafts, cooking and baking too.
